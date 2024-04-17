@@ -22,7 +22,8 @@
 	.section	{height:100vh;position:relative;
 		.cont	{
 			--size: 300px;
-			display:flex;justify-content:center;align-items:center;width:var(--size);height:var(--size);position:absolute;left:calc(50% - calc(var(--size) / 2));top:calc(50% - calc(var(--size) / 2));font-size:40px;font-weight:bold;color:var(--nuxt-navy);background-color:var(--nuxt-green);}
+			display:flex;justify-content:center;align-items:center;width:var(--size);height:var(--size);position:absolute;left:calc(50% - calc(var(--size) / 2));top:calc(50% - calc(var(--size) / 2));font-size:40px;font-weight:bold;color:var(--nuxt-navy);background-color:var(--nuxt-green);
+		}
 	}
 }
 </style>
